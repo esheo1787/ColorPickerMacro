@@ -79,7 +79,7 @@ label-colors-macro/
 *Software Developer — Imaging Tools & Automation*
 
 * **Contact:** [heunseo1787@gmail.com]
-* **GitHub:** [https://github.com/esheo-skia]
+* **GitHub:** [https://github.com/esheo1787]
 
 ---
 
