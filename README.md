@@ -75,7 +75,7 @@ label-colors-macro/
 
 ## Author
 
-**Eunseo Heo (esheo-skia)**<br>
+**Eunseo Heo (esheo1787)**<br>
 *Software Developer — Imaging Tools & Automation*
 
 * **Contact:** [heunseo1787@gmail.com]
