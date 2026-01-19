@@ -94,4 +94,4 @@ Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more informati
 - This tool was developed and validated in real-world annotation workflows.
 - Designed to be minimal, robust, and portable for internal use.
 - Initial commit was made under my secondary GitHub account `heunseoh` for local testing.  
-  All code, design, and updates are authored by myself and maintained on `esheo-skia`.
+  All code, design, and updates are authored by myself and maintained on `esheo1787`.
